@@ -1,0 +1,79 @@
+[
+    {
+        "sender" : "Ander Johnson",
+        "subject" : "Call Review",
+        "sent_time" : "2025-08-04 10:00:00",
+        "body" : "Hey, just saying thanks for the one hour call we had this morning and here is the attached document you requested. Let me know if you have any questions or need further clarification.",
+        "thread_id" : "1"
+    },
+    {
+        "sender" : "Frank Alviso",
+        "subject" : "Heron Point - buyer financing",
+        "sent_time" : "2025-08-13 08:42:00",
+        "body" : "Ellen - following up on our call this morning. Jeff and I went back through the buyer's file and the appraisal that came in on Heron Point is clearly erroneous. The appraiser pulled three comps from outside the parcel's zoning class and never accounted for the acreage split. The lender is holding financing until that gets resolved.\n\nCan you put together a summary of the trust's Heron Point holdings that we can circulate to the other interested parties? We need the parcel breakdown, acreage, zoning, and where things stand on the Marsh Landing contract.",
+        "thread_id" : "2"
+    },
+    {
+        "sender" : "Ellen Whitfield",
+        "subject" : "RE: Heron Point - buyer financing",
+        "sent_time" : "2025-08-13 11:15:00",
+        "body" : "Frank - summary attached, and setting out the key points below for the record.\n\nParcel 1 (Heron Point Dr, folio 12-45-0087): 9.2 acres, zoned A-1, unimproved. Parcel 2 (adjoining, folio 12-45-0088): 14.6 acres, zoned A-1 with a pending rezone application to RS-2. Parcel 3 (the northern strip): 3.1 acres, zoned IL, encumbered by the utility easement we discussed.\n\nTotal trust holding is 26.9 acres, not the 23.8 acres reflected in the appraisal. I suspect that is the root of the valuation problem, since the appraiser appears to have omitted the northern strip entirely.\n\nOn Marsh Landing: their purchase contract covers Parcels 1 and 2 only and by its terms expired on August 6. No extension has been executed. Until the trustees decide whether to renew, I would treat all three parcels as available.\n\nI recommend we send the corrected acreage to the lender directly rather than routing it back through the appraiser.",
+        "thread_id" : "2"
+    },
+    {
+        "sender" : "Ellen Whitfield",
+        "subject" : "Heron Point - Purchase Contract Expiration",
+        "sent_time" : "2025-08-13 13:20:00",
+        "body" : "Counsel - writing to confirm our position regarding the purchase contract for the Heron Point parcels.\n\nThe contract expired by its own terms on August 6, 2025. No extension was requested in writing, none has been granted, and my clients have not waived the closing date.\n\nFor the avoidance of doubt, the sellers were ready, willing, and able to close on the contract date. All trustee signatures were in hand as of August 1, the title commitment was clear, and payoff figures had been obtained. The failure to close was on the buyer's side and related to their lender's appraisal.\n\nThe trustees have instructed me that the parcels are being remarketed effective immediately. If your client wishes to submit a new offer it will be considered on the same terms as any other.",
+        "thread_id" : "3"
+    },
+    {
+        "sender" : "Marcus Devane",
+        "subject" : "RE: Heron Point - Purchase Contract Expiration",
+        "sent_time" : "2025-08-13 15:47:00",
+        "body" : "Ellen - we disagree that no extension was granted. My client's position is that your office's August 2 email acknowledging the appraisal delay operated as a waiver of the closing date. We are reviewing and will respond by the end of the week.\n\nIn the meantime we would ask that the parcels not be conveyed to a third party.",
+        "thread_id" : "3"
+    },
+    {
+        "sender" : "Jeff Brandt",
+        "subject" : "BPO - Heron Point Dr",
+        "sent_time" : "2025-08-13 09:05:00",
+        "body" : "Ellen, the Broker's Price Opinion on Heron Point Dr came back this morning at $1.68M for the two contracted parcels. That is roughly in line with what we expected and well above the lender's appraisal.\n\nAre you okay proceeding on the BPO, and what does that do to the closing timeline?",
+        "thread_id" : "4"
+    },
+    {
+        "sender" : "Ellen Whitfield",
+        "subject" : "RE: BPO - Heron Point Dr",
+        "sent_time" : "2025-08-13 10:30:00",
+        "body" : "Jeff - the BPO is acceptable to proceed on. It is not a substitute for an appraisal for the lender's purposes, but it is sufficient for the trustees to evaluate an offer and it supports our position that the original appraisal was defective.\n\nOn timing: I reviewed the contract status again this morning and the existing sale contract on the Heron Point Dr parcel expired on August 6, so there is no closing to schedule under that contract. If a new offer comes in at or near the BPO figure we can be in a position to close in approximately 45 days. The title work is current and would need a bring-down, and the boundary survey has to be re-certified.\n\nI have separately corresponded with the buyer's counsel confirming the expiration.",
+        "thread_id" : "4"
+    },
+    {
+        "sender" : "David Aurelio",
+        "subject" : "Kenwood - Lease Termination",
+        "sent_time" : "2025-08-13 14:10:00",
+        "body" : "Ellen - the tenant is asking whether they can stay in the space through the end of September rather than vacating on the 15th as the draft termination agreement provides. Landlord is open to it but wants to be able to bring prospective tenants through during that period.\n\nDoes the agreement need to change?",
+        "thread_id" : "5"
+    },
+    {
+        "sender" : "Ellen Whitfield",
+        "subject" : "RE: Kenwood - Lease Termination",
+        "sent_time" : "2025-08-13 16:05:00",
+        "body" : "David - yes, we would want to revise it. As drafted, Section 5 makes surrender of possession the trigger for release of the security deposit and for the mutual release, so letting them hold over to September 30 without amending it would leave the landlord's release hanging.\n\nSuggested revisions: (1) change the Termination Date in Section 2 to September 30, 2025; (2) add a new Section 5(c) granting the landlord a right of access on 48 hours' notice to show the premises to prospective tenants during the holdover period, with a carve-out for the tenant's server room; (3) confirm in Section 6 that the tenant remains responsible for utilities and its pro rata CAM through the revised date; and (4) make clear that the extension is not a renewal and creates no tenancy beyond September 30.\n\nI will circulate a redline tomorrow if that reflects the landlord's intent.",
+        "thread_id" : "5"
+    },
+    {
+        "sender" : "Renata Cole",
+        "subject" : "2841 Sandpiper Ave - DocuSign package",
+        "sent_time" : "2025-08-13 11:40:00",
+        "body" : "Ellen - the buyer's DocuSign package went out Friday and we are still waiting on three signatures.\n\nSeparately, the seller's counsel sent over an indemnity agreement relating to the reserved mineral rights and asked that we get it executed at closing. Copy attached.",
+        "thread_id" : "6"
+    },
+    {
+        "sender" : "Ellen Whitfield",
+        "subject" : "RE: 2841 Sandpiper Ave - DocuSign package",
+        "sent_time" : "2025-08-13 15:30:00",
+        "body" : "Renata - thanks. On the DocuSign package, please send me the envelope status directly so I can see which three are outstanding. If it is the trustee signatures I will chase those today.\n\nOn the indemnity, I will review it before we agree to include it in the closing package. My initial concern is scope. An indemnity tied to a mineral rights reservation should be limited to claims arising from the exercise of those reserved rights, and it should not extend to surface conditions generally or survive indefinitely. I also want to check the 1998 reservation instrument itself, because if the reserved rights were never severed as to this parcel then an indemnity may not be necessary here at all.\n\nI have an office meeting with Will Sutton tomorrow morning on the 2841 Sandpiper file and will take this up with him then. Please hold off on circulating the indemnity for signature until I have come back to you.",
+        "thread_id" : "6"
+    }
+]
