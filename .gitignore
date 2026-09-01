@@ -1,0 +1,24 @@
+# Virtual environment — never commit this. It's big, machine-specific,
+# and fully rebuildable from requirements.txt.
+.venv/
+venv/
+
+# Python bytecode cache — generated automatically, meaningless in git.
+__pycache__/
+*.pyc
+
+# Secrets. Commit .env.example (key names, no values) instead.
+.env
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+
+# Real billing reports and client documents must never be committed.
+*.docx
+*.pdf
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
